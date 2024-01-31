@@ -5,7 +5,6 @@ With this tool, you can erase all the information on your pen drive forever, and
 
 
 
-
 ## The process takes time to complete
 It takes approximately 7 minutes at home to rewrite each GB of data
 - 4GB - 27m
@@ -14,6 +13,24 @@ It takes approximately 7 minutes at home to rewrite each GB of data
 - 32GB- 216m
 - 64GB- 432m
 
-## Demo
+## Using Step
+- First, download the bat file and open it in Run Administrator by clicking the Mouse right button.
 
-![Uploading 0131-ezgif.com-video-to-gif-converter.gif…]()
+- Then enter the drive letter of the pen drive.
+
+- Then click on enter enter enter to go for the next step.
+
+- Then wait for the process to complete which depends on how many GB of pen drive is given above how long it may take approx.
+
+
+
+## Software List
+
+Given below is a list of software which cannot recover data from pen drive after this attempt.
+
+- Speed Data Recovery Pro
+- Recuva
+- Disk Drill
+- PhotoRec
+- EaseUS Data Recovery Wizard
+- More.....
