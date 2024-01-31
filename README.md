@@ -8,11 +8,11 @@ With this tool, you can erase all the information on your pen drive forever, and
 
 ## The process takes time to complete
 
-- 4GB - 15m
-- 8GB - 15m
-- 16GB- 15m
-- 32GB- 15m
-- 64GB- 15m
+- 4GB - 27m
+- 8GB - 54m
+- 16GB- 108m
+- 32GB- 216m
+- 64GB- 432m
 
 ## Demo
 
