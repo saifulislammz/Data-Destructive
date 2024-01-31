@@ -7,7 +7,7 @@ With this tool, you can erase all the information on your pen drive forever, and
 
 
 ## The process takes time to complete
-
+It takes approximately 7 minutes at home to rewrite each GB of data
 - 4GB - 27m
 - 8GB - 54m
 - 16GB- 108m
