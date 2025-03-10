@@ -1,42 +1,59 @@
+# 🚀 Data Destructive Script  
 
-# Data Destructive Script
+A powerful tool to **permanently erase** all data from your **pen drive**. Once deleted, the data **cannot be recovered** using any recovery software. This process runs through **Windows CMD** and ensures complete data destruction **without harming your device**.  
 
-With this tool, you can erase all the information on your pen drive forever, and it won't be possible to get it back with any recovery software. This process is done through Windows CMD, and it won't cause any problems for your device. It works best for pen drives with 4GB to 64 GB of storage.
+⚠ **Warning:** This action is **irreversible**. Use with caution!  
 
+---
 
+## 🕒 Process Duration  
 
-## The process takes time to complete
-It takes approximately 7 minutes at home to rewrite each GB of data
-- 4GB - 27m
-- 8GB - 54m
-- 16GB- 108m
-- 32GB- 216m
-- 64GB- 432m
+Data destruction time varies based on the storage size of your pen drive:  
 
-## Using Step
-- First, download the bat file and open it in Run Administrator by clicking the Mouse right button.
+| Storage Size | Approximate Time |
+|-------------|-----------------|
+| 4GB         | ~27 minutes     |
+| 8GB         | ~54 minutes     |
+| 16GB        | ~108 minutes    |
+| 32GB        | ~216 minutes    |
+| 64GB        | ~432 minutes    |
 
-- Then enter the drive letter of the pen drive.
+---
 
-- Then click on enter enter enter to go for the next step.
+## 🔧 How to Use  
 
-- Then wait for the process to complete which depends on how many GB of pen drive is given above how long it may take approx.
+1. **Download** the `.bat` file.  
+2. **Run as Administrator** (Right-click → "Run as Administrator").  
+3. **Enter the drive letter** of your pen drive.  
+4. **Press "Enter" multiple times** to confirm.  
+5. **Wait for the process to complete** (refer to the time chart above).  
 
+---
 
+## ❌ Recovery Software That Won't Work  
 
-## Software List
+After using this script, the following recovery tools **cannot retrieve the erased data**:  
 
-Given below is a list of software which cannot recover data from pen drive after this attempt.
+✅ Speed Data Recovery Pro  
+✅ Recuva  
+✅ Disk Drill  
+✅ PhotoRec  
+✅ EaseUS Data Recovery Wizard  
+...and many more!  
 
-- Speed Data Recovery Pro
-- Recuva
-- Disk Drill
-- PhotoRec
-- EaseUS Data Recovery Wizard
-- More.....
+---
 
-## Tool Screen Short
-![20240131_134131](https://github.com/saifulislammz/Data-Destructive/assets/122992546/3da5b202-2468-4b23-aaab-aabf35c09327)
+## 📸 Screenshots  
 
-![20240131_134630](https://github.com/saifulislammz/Data-Destructive/assets/122992546/1658e780-70b0-4899-8ab0-46cf082f5bd1)
+🔹 **Before & After Execution:**  
+![Tool Screenshot 1](https://github.com/saifulislammz/Data-Destructive/assets/122992546/3da5b202-2468-4b23-aaab-aabf35c09327)  
 
+![Tool Screenshot 2](https://github.com/saifulislammz/Data-Destructive/assets/122992546/1658e780-70b0-4899-8ab0-46cf082f5bd1)  
+
+---
+
+## ⚠ Disclaimer  
+
+This tool is **intended for personal use only**. The developer is **not responsible** for any **data loss, misuse, or unintended consequences**. Use at your own risk.  
+
+📌 **Star** ⭐ this repository if you find it useful!  
